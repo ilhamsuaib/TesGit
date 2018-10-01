@@ -1,3 +1,5 @@
+package array
+
 import java.util.*
 
 fun main(args: Array<String>) {
@@ -6,9 +8,9 @@ fun main(args: Array<String>) {
     val strings = contohArray.strings
 
     //untuk menampilkan data pada array
-    println("Data Array : "+Arrays.toString(strings))
+    println("Baju Array : "+Arrays.toString(strings))
     //menampilkan jumlah data
-    println("Jumlah Data : ${strings.size}")
+    println("Jumlah Baju : ${strings.size}")
 
     //perulangan pada array beserta index dan data
     strings.forEachIndexed { index, s ->
@@ -17,22 +19,22 @@ fun main(args: Array<String>) {
 
     //perulangan pada array
     strings.forEach {
-        println("Data : $it")
+        println("Baju : $it")
     }
 
     //menampilkan data array berdasarkan index
-    println("Data yang ke 2 : ${strings[1]}")
+    println("Baju yang ke 2 : ${strings[1]}")
 
     //mengganti nilai array pada index tertentu
     strings[1] = "My new value"
-    println("Data yang ke 2 : ${strings[1]}")
+    println("Baju yang ke 2 : ${strings[1]}")
 
     //-------------------------------
 
     val arrInt = intArrayOf(1, 4, 6, 7, 3, 4)
-    println("Data arrInt : ${Arrays.toString(arrInt)}")
+    println("Baju arrInt : ${Arrays.toString(arrInt)}")
 
-    //---------------------------
+    //-------------------------------
 
     val namas = arrayOf("Ilham", "Adhi", "Sam", "Ali", "Zul")
     println("Nama : ${Arrays.toString(namas)}")
