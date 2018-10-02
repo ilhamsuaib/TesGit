@@ -7,5 +7,4 @@ class ContohArray {
     var strings = Array<String>(size = 5, init = {
         "Item $it"
     })
-
 }
