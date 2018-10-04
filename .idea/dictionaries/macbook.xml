@@ -2,9 +2,12 @@
   <dictionary name="macbook">
     <words>
       <w>angka</w>
+      <w>ayam</w>
       <w>baju</w>
       <w>berdasarkan</w>
       <w>biru</w>
+      <w>bukan</w>
+      <w>bulu</w>
       <w>contoh</w>
       <w>dalam</w>
       <w>dengan</w>
@@ -13,23 +16,36 @@
       <w>gaes</w>
       <w>ganjil</w>
       <w>genap</w>
+      <w>hewan</w>
+      <w>jenis</w>
+      <w>jumlah</w>
       <w>kabar</w>
+      <w>kaki</w>
+      <w>kampung</w>
       <w>kamu</w>
+      <w>kelamin</w>
       <w>kelas</w>
+      <w>kelinci</w>
       <w>kurang</w>
       <w>lengan</w>
       <w>luar</w>
+      <w>makanan</w>
+      <w>mamalia</w>
       <w>membuat</w>
       <w>menampilkan</w>
       <w>mengembalikan</w>
+      <w>merah</w>
       <w>nilai</w>
       <w>objek</w>
       <w>panjang</w>
       <w>pengurangan</w>
       <w>penjumlahan</w>
+      <w>putih</w>
+      <w>tahun</w>
       <w>tanpa</w>
       <w>tidak</w>
       <w>usah</w>
+      <w>warna</w>
     </words>
   </dictionary>
 </component>
